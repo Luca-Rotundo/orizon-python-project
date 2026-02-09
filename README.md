@@ -21,7 +21,7 @@ Il progetto è pensato per essere eseguito in modalità interattiva.
 
 Per provarlo:
 1. Clona la repository
-2. Apri il file `Orizon.ipynb` con Jupyter Notebook o Jupyter Lab
+2. Apri il file `Orizon_Python_Project.ipynb` con Jupyter Notebook o Jupyter Lab
 3. Esegui tutte le celle
 4. Usa il menù testuale per interagire con il programma
 
