@@ -14,11 +14,16 @@ Il progetto simula la gestione di un catalogo viaggi tramite un menù testuale i
 - Statistiche sul catalogo (medie, min/max, distribuzione per Paese, miglior rapporto impatto/costo)
 
 ## Struttura del progetto
-- `Orizon.ipynb` → notebook principale con codice e menù interattivo
+- `Orizon_Python_Project.ipynb` → notebook principale con codice e menù interattivo
 
-## Come eseguire
-Apri il notebook `Orizon.ipynb` e avvia tutte le celle.
-Il programma funziona in modalità interattiva tramite input da tastiera (menù testuale).
+## Come eseguire il progetto
+Il progetto è pensato per essere eseguito in modalità interattiva.
+
+Per provarlo:
+1. Clona la repository
+2. Apri il file `Orizon.ipynb` con Jupyter Notebook o Jupyter Lab
+3. Esegui tutte le celle
+4. Usa il menù testuale per interagire con il programma
 
 ## Note
 Scala impatto: **1–10**, dove **10 = massimo impatto positivo** su comunità/ambiente.
